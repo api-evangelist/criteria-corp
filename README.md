@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Criteria Corp is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://criteriacorp.com/
+Criteria Corp provides pre‑employment testing and employee assessment solutions, offering a suite of scientifically validated assessments such as cognitive aptitude, personality, emotional intelligence, risk, skills, and game‑based tests. Their platform includes AI‑proctored video interviewing, real‑time interview scoring, and ongoing employee development tools like weekly manager check‑ins and coaching. Serving enterprises, mid‑market, and small businesses, Criteria Corp helps organizations make data‑driven hiring and development decisions through a cloud‑based SaaS platform.
+
+**Areas:** Pre‑Employment Testing · Assessments · Video Interviewing · Talent Development · AI Proctoring · Enterprise Hiring
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://criteriacorp.com/)
+- [Documentation](https://www.criteriacorp.com/)
+- [Getting started](https://www.criteriacorp.com/plans-and-pricing)
+- [API reference](https://www.criteriacorp.com/)
+- [Pricing](https://www.criteriacorp.com/plans-and-pricing)
+- [Blog](https://www.criteriacorp.com/blog)
+- [Compliance](https://www.criteriacorp.com/security-and-compliance)
+- [Terms of service](https://www.criteriacorp.com/terms-use)
+- [Privacy policy](https://www.criteriacorp.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/criteria-corp/](https://apis.io/providers/criteria-corp/).
